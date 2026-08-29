@@ -14,4 +14,6 @@ public class OrderInfo {
     private Integer deleteFlag;
     private Date createTime;
     private Date updateTime;
+
+    private ProductInfo productInfo;
 }
