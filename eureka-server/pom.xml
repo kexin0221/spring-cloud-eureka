@@ -4,36 +4,25 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>order-service</artifactId>
-  <name>order-service</name>
+  <groupId>com.bite</groupId>
+  <artifactId>eureka-server</artifactId>
+  <name>eureka-server</name>
   <parent>
-    <groupId>com.bite</groupId>
+    <groupId>org.example</groupId>
     <artifactId>spring-cloud-eureka</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <relativePath>../pom.xml</relativePath>
   </parent>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.target>17</maven.compiler.target>
     <maven.compiler.source>17</maven.compiler.source>
-    <junit.version>5.11.3</junit.version>
-  </properties>
+<junit.version>5.11.3</junit.version>  </properties>
 
   <dependencies>
     <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-web</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.mysql</groupId>
-      <artifactId>mysql-connector-j</artifactId>
-      <version>9.3.0</version>
-    </dependency>
-    <!--mybatis-->
-    <dependency>
-      <groupId>org.mybatis.spring.boot</groupId>
-      <artifactId>mybatis-spring-boot-starter</artifactId>
+      <groupId>org.springframework.cloud</groupId>
+      <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
     </dependency>
   </dependencies>
 
@@ -46,4 +35,5 @@
     </plugins>
 
   </build>
-  </project>
+
+</project>
