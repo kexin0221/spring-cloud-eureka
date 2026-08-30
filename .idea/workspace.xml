@@ -5,24 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1823486-a947-4ae2-884f-1a736382ad42" name="Changes" comment="eureka学习代码">
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/bite/order/config/CustomLoadBalancerConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/resources/application-prod.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/bite/eurekaserver/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/bite/eurekaserver/EurekaServerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/bite/order/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/bite/order/config/BeanConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/bite/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/bite/order/service/OrderService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/bite/product/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/bite/product/service/ProductService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,7 +86,7 @@
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/code/java/spring-cloud-eureka",
+    "last_opened_file_path": "D:/code/java/spring-cloud-eureka/order-service/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,9 +96,15 @@
     "project.structure.proportion": "0.19123018",
     "project.structure.side.proportion": "0.2651515",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "preferences.sourceCode.yaml"
+    "settings.editor.selected.configurable": "preferences.sourceCode.XML"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\java\spring-cloud-eureka\order-service\src\main\resources" />
+      <recent name="D:\code\java\spring-cloud-eureka\product-service\src\main\resources" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -208,7 +217,7 @@
       <workItem from="1788012927535" duration="304000" />
       <workItem from="1788013348782" duration="2287000" />
       <workItem from="1788015713232" duration="1431000" />
-      <workItem from="1788052861579" duration="8478000" />
+      <workItem from="1788052861579" duration="10784000" />
     </task>
     <task id="LOCAL-00001" summary="eureka学习代码">
       <option name="closed" value="true" />
@@ -234,7 +243,23 @@
       <option name="project" value="LOCAL" />
       <updated>1788017100070</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="eureka学习代码">
+      <option name="closed" value="true" />
+      <created>1788069072569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1788069072569</updated>
+    </task>
+    <task id="LOCAL-00005" summary="eureka学习代码">
+      <option name="closed" value="true" />
+      <created>1788069085560</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1788069085560</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
