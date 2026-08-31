@@ -19,6 +19,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kexin0221/spring-cloud-eureka.git",
+    "accountId": "acecae4c-3ee7-475e-866d-036d314984ab"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -41,7 +47,10 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/code/java/spring-cloud-eureka",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "run.configurations.included.in.services": "true"
   }
 }]]></component>
@@ -100,6 +109,7 @@
       <updated>1788144883895</updated>
       <workItem from="1788144884909" duration="147000" />
       <workItem from="1788145075648" duration="101000" />
+      <workItem from="1788146371855" duration="355000" />
     </task>
     <task id="LOCAL-00002" summary="eureka学习代码">
       <option name="closed" value="true" />
@@ -133,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1788145156686</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="eureka学习代码">
+      <option name="closed" value="true" />
+      <created>1788146469200</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1788146469200</updated>
+    </task>
+    <task id="LOCAL-00007" summary="eureka学习代码">
+      <option name="closed" value="true" />
+      <created>1788146583125</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1788146583125</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
