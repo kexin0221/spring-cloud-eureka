@@ -19,6 +19,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kexin0221"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/kexin0221/spring-cloud-eureka.git",
@@ -109,7 +115,7 @@
       <updated>1788144883895</updated>
       <workItem from="1788144884909" duration="147000" />
       <workItem from="1788145075648" duration="101000" />
-      <workItem from="1788146371855" duration="355000" />
+      <workItem from="1788146371855" duration="406000" />
     </task>
     <task id="LOCAL-00002" summary="eureka学习代码">
       <option name="closed" value="true" />
@@ -159,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788146583125</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="eureka学习代码">
+      <option name="closed" value="true" />
+      <created>1788146758384</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1788146758384</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
